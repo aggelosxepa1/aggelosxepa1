@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aggelos Xepapadakos</h1>
+<h1 align="center">Hi, I'm Aggelos</h1>
 
 - 🌱 I’m currently learning **Tensorflow**
 
