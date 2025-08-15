@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aggelos</h1>
 
 # About Me:
-🌱 I’m currently learning Tensorflow
+🌱 I’m currently learning **Tensorflow**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aggelosxepa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aggelosxepa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggelos.xepapadakos@gmail.com) 
