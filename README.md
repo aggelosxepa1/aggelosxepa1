@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aggelos Xepapadakos</h1>
+
 - 🌱 I’m currently learning **Tensorflow**
+
 - 📫 How to reach me **aggelos.xepapadakos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
